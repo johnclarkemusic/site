@@ -4,6 +4,36 @@ You can use the [editor on GitHub](https://github.com/johnclarkemusic/site/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 [page2](/page1.md/)
+
+Order Latest CD
+
+Take Guitar Lessons – https://ClarkeGuitarSchool.com
+
+Get Tabs, Notation – Gumroad – https://gumroad.com/johnclarkemusic
+
+Watch Live stream on Twitch - https://twitch.com/johnclarkemusic
+
+Spotify – Listen on Spotify - https://open.spotify.com/artist/5otepXqqWjip4ZcN24p9Uj
+
+Itunes – Listen on Itunes https://itunes.apple.com/us/artist/john-h-clarke/
+
+Pandora – Listen on Pandora – https://www.pandora.com/artist/john-h-clarke
+
+Download Music – Bandcamp – https://johnhclarke.bandcamp.com/
+
+Hire for Private Events – https://www.johnclarkemusic.com/guitarist-for-hire-san-francisco-bay-area/
+
+Youtube – Watch on Youtube https://youtube.com/johnclarkemusic
+
+Support on Patreon – https://patreon.com/johnclarkemusic
+
+Instagram – Follow on Instagram – https://instagram.com/johnclarkemusic
+
+Twitter – Follow on Twitter – https://twitter.com/johnclarkemusic
+
+Tip or Donate with Bitcoin: 3AQB4ZzjrgN9GFkTqZEat1mSYdM9Cg3CUN
+
+Tip or Donate with Venmo: @JohnClarkeMusic
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
