@@ -1,0 +1,85 @@
+.widget .ical .enddate, .widget .ical .eventdate, .widget .ical .endtime, .widget .ical .starttime {color: #aaa;line-height: 1.84615;font-size: .785714rem;}
+#events_wrap article, #events_wrap article span.summary, #events_wrap article span.description, #events_wrap aside, #events_wrap figure, #events_wrap footer, #events_wrap header, #events_wrap hgroup, #events_wrap menu, #events_wrap nav, #events_wrap section {display: block;}
+#events_wrap article, #events_wrap article span.description, #events_wrap aside, #events_wrap figure, #events_wrap section {margin: 10px 0 10px 0;}
+#events_wrap article {margin-bottom: 20px;}
+.master th.level0 {font-weight: bold;background-color: #ddd;}
+.master th.group .termdesc {font-weight: normal;text-transform: none;}
+#calendar_toggle {float: right;}
+tr.level0 {background: #ccc;}
+#events_wrap {word-wrap: break-word;}
+.event abbr, #events_wrap abbr {border-bottom: none;}
+#events_wrap .largecalendar tbody td {font-size: small;}
+#events_wrap  thead th {text-align: center;}
+#events_wrap  .largecalendar thead th, #events_wrap  .largecalendar tbody td {padding: 3px 0 2px;}
+#events_wrap  .largecalendar tbody td {}
+#events_wrap  .largecalendar tbody td .day {padding: 0 3px 0;}
+#events_wrap  .largecalendar tbody td .event {padding: 0 3px;}
+#events_wrap table.largecalendar td {width: 100px;}
+#events_wrap table.largecalendar {table-layout: fixed;width: 100%;}
+#events_wrap table a {text-decoration: none;}
+#events_wrap .smallcalendar, #multismallcalendar .smallcalendar {border-collapse: separate;border-spacing: 0px;}
+#multismallcalendar tr.dayheaders th, #multismallcalendar tr.week th, #multismallcalendar tr.week td, #multismallcalendar td.pad, #events_wrap .smallcalendar  td, #events_wrap .smallcalendar  th, #events_wrap .smallcalendar  td div, #events_wrap1 .smallcalendar  td, #events_wrap1 .smallcalendar  th, #events_wrap1 .smallcalendar  td div {margin: 0;border: 0;border: 0px none;padding: 0;outline: 0px none;}
+#multismallcalendar  a.daylink, #multismallcalendar  a, #events_wrap .smallcalendar  a.daylink {text-decoration: none;}
+#multismallcalendar td, #multismallcalendar th, #events_wrap td {vertical-align: top;}
+.smallcalendar td.day1, .smallcalendar td.day2, .smallcalendar td.day3, .smallcalendar td.day4, .smallcalendar td.day5 {}
+#events_wrap table td.day6, table.ical td.day7 {}
+#events_wrap table td.pad {}
+#events_wrap .smallcalendar td.hasevents a:hover {color: #fff;}
+#events_wrap  .largecalendar td.hasevents:hover .day {background: #777;color: #fff;}
+#events_wrap  .largecalendar td.hasevents:hover .day a {color: #fff;}
+table.largecalendar td.today a {color: #111;}
+table.smallcalendar td.hasevents {}
+table.smallcalendar, #events_wrap  table.smallcalendar {max-width: 200px;border: 0;margin: 0 auto;}
+#events_wrap  table.smallcalendar tbody td {}
+#events_wrap table.largecalendar tbody td {height: 80px;}
+#events_wrap  table tbody td .event {}
+#events_wrap  table tbody td .firstday, #events_wrap  table tbody td .middleday, #events_wrap  table tbody td .lastday {background: #eee;}
+#events_wrap .smallcalendar td.hasevents:hover, #events_wrap table.largecalendar td.today, #multismallcalendar td.today, table.smallcalendar td.selected, table.smallcalendar td.today {font-weight: bold;}
+#events_wrap  table tbody td.today .firstday, #events_wrap  table tbody td.today  .middleday, #events_wrap  table tbody td.today  .lastday 
+#events_wrap  table tbody td.today  .firstday, #events_wrap  table tbody td.today  .middleday, #events_wrap  table tbody td.today  .lastday {background: #777;}
+#events_wrap table.ical td .event div.details2 {display: none;}
+#events_wrap table.ical .event:hover  div.details2 {color: #333;background: #fff;display: block;position: absolute;margin-top: 12px;margin-left: 50px;padding: 10px;width: 200px;z-index: 100;border: 1px solid #000;overflow: hidden;}
+#events_wrap table.ical .event:hover  div.details2 {display: block;}
+#events_wrap table.ical .event:hover  div.details2 img {width: 200px;}
+#events_wrap table.ical td.endweek .event:hover  div.details2 {margin-left: -110px;}
+.calendar_navigation {clear: both;margin: 0;padding: 0;border: hidden;}
+#icallookmore a#icalalookmore, .calendar_navigation .nextweek, .calendar_navigation .nextmonth {text-align: right;float: right;}
+#icallookmore a#icalalookprev, .calendar_navigation .prevweek, .calendar_navigation .prevmonth {text-align: left;float: left;}
+.calendar_navigation .prevweek, .calendar_navigation .nextweek {font-size: XX-large;}
+.calendar_navigation form {padding: 0 8px;text-align: center;margin: auto;}
+.calendar_navigation  input, .calendar_navigation  select {margin: 0;line-height: 14px;font-size: 12px;}
+.calendar_navigation a {text-decoration: none;}
+#calendar_views {float: right;padding-left: 5px;}
+#calendar_views a {text-decoration: none;}
+#multismallcalendar {}
+#multismallcalendar	table {padding: 0;float: left;max-width: 200px;min-width: 150px;margin: 2%;text-align: center;table-layout: fixed;font-size: small;}
+#multismallcalendar	.day {text-align: center;}
+#multismallcalendar	 caption, #multismallcalendar	 tr th, #multismallcalendar	 tr td {text-align: center;padding: 0;}
+#events_wrap table.weekscalendar  caption {}
+#events_wrap  .weekscalendar  	tr.caption {background: #eee;}
+#events_wrap  .weekscalendar  	th, #events_wrap  .weekscalendar  	td {width: 14%;padding: 0;margin: 0;}
+#events_wrap  .weekscalendar 	td div.event {padding-left: 2px;padding-right: 2px;}
+.icalprop, #events_wrap .icalprop, #multismallcalendar .icalprop {border: 0;margin: 0;padding: 0;width: 100%;max-width: 100%;}
+.icalprop td, #events_wrap .icalprop td, #multismallcalendar .icalprop td {border: 0;text-align: left;padding: 0;}
+#events_wrap img {border: none !important;vertical-align: text-bottom;}
+#events_wrap .vevent {clear: right;}
+#events_wrap table img {max-width: 400px;}
+.amr-bling {float: right;padding: 0;margin: 0;font-size: small;}
+.amr-bling img {}
+#icalnavs {width: 250px;text-align: center;vertical-align: middle;margin: 0 auto;font-size: small;}
+.icalnav {vertical-align: middle;}
+.icalnav a {text-decoration: none;color: #adadad;}
+.icalnav a.symbol {font-size: large;}
+.icalnavs:hover {background-color: #fff;}
+.icalnav a:hover {color: #000;}
+.add-new-event {display: block;clear: both;}
+.amrical_credit, .amrical_credit a, .amrical_credit a:visited {font-size: x-small;color: #adadad;font-style: italic;vertical-align: middle;}
+.amrical_credit a:hover {font-size: x-small;font-style: italic;color: #000;}
+.eventinfo ul li {clear: both;}
+table.largecalendar tbody td:hover div.day {}
+#events_wrap .history {}
+.col1, .amrcol1 {padding-left: 2px;}
+.cal0 {border-left: medium solid transparent;}
+.cal1 {border-left: medium solid LightGray;}
+.cal2 {border-left: medium solid Gray;}
+.cal3 {border-left: medium solid DarkGray;}
